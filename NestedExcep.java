@@ -1,4 +1,5 @@
-//Write a programm that implement the Nested try statements
+//Write a programm that implement the Nested try statements.
+
 class NestedExcep
 {
 public static void main(String args[])
@@ -22,3 +23,6 @@ System.out.println("Array index out of  bound exception");
 }
 }
 }
+
+/* Output:- 
+      Array index out of bound Exception.
