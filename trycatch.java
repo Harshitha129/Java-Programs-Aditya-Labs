@@ -1,3 +1,5 @@
+// Write a program to handle the exception using try and multiple catch block.
+
 import java.util.Scanner;
 class trycatch
 {
@@ -27,3 +29,18 @@ System.out.println("ArrayIndexOutOfBoundsException occurs");
 }
 }
 }
+
+/* 
+    Output:- 
+      1.  Enter x value:
+          20
+          Enter y value:
+          4
+          The result is: 5
+          ArrayIndexOutOfBoundException occurs.
+          
+     2.   Enter x value:
+          5
+          Enter y value:
+          0
+          Arithematic Exception caught.
