@@ -19,3 +19,7 @@ lion ln=new lion();
 ln.sound();
 }
 }
+
+/*  
+    Output:-
+        ROARING.
