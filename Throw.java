@@ -1,3 +1,5 @@
+// Write a program to handle the user defined exception using throw keyword.
+
 import java.util.*;
 class Throw
 {
@@ -17,3 +19,7 @@ public static void main(String args[])
 checkAge(20);
 }
 }
+
+/* 
+     Output:- 
+        Access granted - You are old enough!
