@@ -1,3 +1,5 @@
+// Write a program to design a class to find account using the inheritance and static that show all function of bank(withdrawal,deposite).
+
 import java.util.*;
 import java.util.Scanner;
 class Bank {
@@ -49,3 +51,23 @@ Bank b3 = new Bank();
   b3.withdraw(150.5f);
  }
 }
+
+/* 
+   Output:-
+      Ur account no is 10001
+      OOPS 0 can't be deposited
+      sorry u can't withdraw
+      Account no :10002
+      Current Amount:1000.0
+      
+      Ur account no is 10002
+      After deposition
+      Current balance :2000.0
+      amount withdrawl
+      Current balance :1849.5
+      Ur account no is 10003
+      After deposition
+      Current balance :2000.0
+      amount withdraw :150.0
+      After withdrawl
+      Current balance :1849.5
