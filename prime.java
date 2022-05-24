@@ -21,3 +21,11 @@ else
 System.out.println(n + " is not a prime number");
 }
 }
+
+/* 
+      Output:-
+          java prime
+          789353436 is not a prime number
+          java prime
+          79432487 is a prime number
+          
