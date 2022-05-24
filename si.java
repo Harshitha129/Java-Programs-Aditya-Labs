@@ -1,4 +1,5 @@
 //write a java program to calculate the Simple Interest and input given by the user
+
 import java.util.Scanner;
 class si
 {
