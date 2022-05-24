@@ -1,4 +1,4 @@
-/*program to demonstarte type-casting in java*/
+// Write a program to Demonstrate type-casting in java.
 
 class Tcast
 {
