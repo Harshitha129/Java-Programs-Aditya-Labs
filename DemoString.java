@@ -1,3 +1,5 @@
+// Write a program to design a string class that performs string methods(Equal, Reverse the string, Change case).
+
 import java.util.*;
 import java.util.Scanner;
 class DemoString
@@ -23,3 +25,16 @@ s3= ch+s3;
 System.out.println("the string reverse is: "+s3);
 }
 }
+
+/* 
+    Output:- 
+      Enter the 1st string :
+      Albatross
+      Enter the 2nd string :
+      Nani
+      the string is : Albatross
+      the string uppercase is: ALBATROSS
+      the string lowercase is: albatross
+      two string comparision is: false
+      the string reverse is: ssortablA
+      
