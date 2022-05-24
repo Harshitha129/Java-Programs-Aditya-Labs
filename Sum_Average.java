@@ -22,3 +22,22 @@ public class Sum_Average
         System.out.println("Average:"+average);
     }
 }
+
+/* 
+    Output:- 
+        Enter no. of elements in array : 10
+        Enter all the elements :
+        3
+        7
+        8
+        2
+        4
+        8
+        3
+        9
+        2
+        4
+        Sum : 50
+        Average : 5.0
+        
+        
