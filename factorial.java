@@ -1,4 +1,5 @@
 //Write a program in Java to find the factorial of a given number using recursion
+
 import java.util.Scanner;
 class factorial
 {
@@ -21,3 +22,9 @@ return(x*fact(x-1));
 return 1;
 }
 }
+
+/* 
+    Output:- 
+        Enter a value :
+        10
+        factorial of 10 : 3628800
