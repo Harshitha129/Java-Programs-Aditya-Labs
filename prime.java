@@ -1,3 +1,5 @@
+// Write a program to test the Prime number.
+
 import java.io.*;
 import java.util.Scanner;
 class prime
