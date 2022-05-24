@@ -1,3 +1,5 @@
+//Write a program to find the average and sum of the numbers using commands line arguments
+
 import java.util.Scanner;
 public class Sum_Average
 {
