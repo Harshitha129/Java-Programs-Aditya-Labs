@@ -10,3 +10,10 @@ System.out.println("Area of rectagle:" + l*b);
 System.out.println("Perimeter of rectangle:" + 2*(l+b));
 }
 }
+
+/*  
+    Output:- 
+        7
+        8
+        Area of rectangle :  56
+        perimeter of rectangle : 30
