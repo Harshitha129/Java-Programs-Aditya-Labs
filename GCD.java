@@ -1,3 +1,5 @@
+// Write a program to find GCD of the number.
+
 import java.util.Scanner;
 class GCD
 {
