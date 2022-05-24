@@ -1,3 +1,5 @@
+// Write a program to create simple class to find out the Area and Perimeter of rectangle and box using super and this keyword.
+
 import java.util.Scanner;
 class PerimeterRec
 {
