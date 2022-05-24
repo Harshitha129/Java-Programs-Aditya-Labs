@@ -20,3 +20,10 @@ System.out.println(y);
 System.out.println(d);
 }
 }
+
+/*
+  Output:- 
+        134
+        33
+        300.0
+        300.0
