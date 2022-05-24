@@ -15,3 +15,9 @@ gcd = i;
 System.out.println("GCD of " +a+ " and " +b+ " is: " +gcd);
 }
 }
+
+/*  
+    Output:- 
+        7
+        9
+        GCD of 7 and 9 is : 1
