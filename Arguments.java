@@ -8,3 +8,10 @@ class main
 		
 	}
 }
+
+/* 
+	Output:-
+		javac Arguments.java
+		java main Bca Aditya
+		The number of arguments given by user :
+		2
