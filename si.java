@@ -11,3 +11,10 @@ class si
 		System.out.println("Simple Intrest is:" +(p*t*r)/100);
 	}
 }
+
+/* 
+	Output:- 
+		7
+		3
+		9
+		Simple intrest is : 1.89
